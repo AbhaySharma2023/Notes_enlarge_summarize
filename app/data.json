@@ -1,0 +1,74 @@
+{
+  "notes": [
+    {
+      "id": "note-1",
+      "title": "Python Programming Basics",
+      "content": "Python is a high-level programming language known for its simplicity and readability. It supports multiple programming paradigms including procedural, object-oriented, and functional programming.",
+      "tags": ["programming", "python", "education"],
+      "created_at": "2025-06-25T09:30:00Z"
+    },
+    {
+      "id": "note-2",
+      "title": "Machine Learning Overview",
+      "content": "Machine learning is transforming industries by enabling computers to learn from data without explicit programming. Key algorithms include neural networks, decision trees, and support vector machines.",
+      "tags": ["ai", "machine-learning", "technology"],
+      "created_at": "2025-06-25T14:15:00Z"
+    },
+    {
+      "id": "note-3",
+      "title": "FastAPI Framework",
+      "content": "FastAPI is a modern web framework for building APIs with Python. It provides automatic documentation, type hints, and high performance through async support.",
+      "tags": ["fastapi", "python", "web-development"],
+      "created_at": "2025-06-25T16:45:00Z"
+    },
+    {
+      "id": "note-4",
+      "title": "AI Technology Trends",
+      "content": "artificial intelligence and machine lerning has become very important in todays world.it helps in automating tasks,predicting outcomes and making decisionsmore efficientlyAI algorithms can process huge amounts of data quickly compared to humans.some popular ai techniques include deep learning,natural language processing,computer vision,robotics etc.companies like google,microsoft,openai are leading in this field.ai is being used in healthcare,finance,transportation,education and many other sectors",
+      "tags": ["ai", "unformatted", "technology"],
+      "created_at": "2025-06-26T10:20:00Z"
+    },
+    {
+      "id": "note-5",
+      "title": "Morning Workout Routine",
+      "content": "Started my day with a 30-minute workout session. Feeling energized and ready to tackle the coding challenges ahead. Physical exercise really helps with mental clarity and focus.",
+      "tags": ["health", "fitness", "productivity"],
+      "created_at": "2025-06-26T07:00:00Z"
+    },
+    {
+      "id": "note-6",
+      "title": "Database Design Principles",
+      "content": "Good database design is crucial for application performance. Key principles include normalization, proper indexing, and understanding relationships between entities.",
+      "tags": ["database", "design", "programming"],
+      "created_at": "2025-06-26T11:30:00Z"
+    },
+    {
+      "id": "note-7",
+      "title": "Weekend Project Ideas",
+      "content": "Brainstorming some weekend coding projects: 1) Personal expense tracker 2) Weather app with beautiful UI 3) Chat application using WebSocket 4) Recipe organizer with meal planning",
+      "tags": ["projects", "coding", "creativity"],
+      "created_at": "2025-06-26T18:30:00Z"
+    },
+    {
+      "id": "note-8",
+      "title": "Team Meeting Notes",
+      "content": "Discussed the new feature requirements for our application. Team agreed on using microservices architecture. Sprint planning scheduled for tomorrow. Need to prepare user stories.",
+      "tags": ["work", "meetings", "planning"],
+      "created_at": "2025-06-27T09:00:00Z"
+    },
+    {
+      "id": "note-9",
+      "title": "Reading List",
+      "content": "Books to read this month: Clean Code by Robert Martin, Designing Data-Intensive Applications by Martin Kleppmann, The Pragmatic Programmer. Really excited about expanding my knowledge.",
+      "tags": ["books", "learning", "self-improvement"],
+      "created_at": "2025-06-27T12:15:00Z"
+    },
+    {
+      "id": "note-10",
+      "title": "Cooking Experiment",
+      "content": "Tried making homemade pasta today. It was more challenging than expected but the result was delicious! Cooking is like programming - you need patience and attention to detail.",
+      "tags": ["cooking", "hobbies", "life"],
+      "created_at": "2025-06-27T19:45:00Z"
+    }
+  ]
+}
